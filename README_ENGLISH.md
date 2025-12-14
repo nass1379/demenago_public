@@ -111,15 +111,9 @@ The prototype can be enhanced along several dimensions:
 - **Multi-view and 3D fusion**  
   Combine multiple views of the same object to reduce uncertainty compared to single-image estimation.
 
-- **Dedicated depth estimation**  
-  Integrate a monocular depth model (e.g., MiDaS) to improve camera–object distance estimation, complementing the current geometric assumptions.
-
-- **Context-aware personalization**  
-  Automatically adapt assumptions (camera height, dimensional constraints) based on housing type or geographic region.
-
 - **Learning from real-world feedback**  
   Gradually refine priors and truck recommendations using actual volumes observed after real moves.
 
 ---
 
-*Document intended for demonstration purposes.*
+*Document intended for demonstration purposes made by Nassim Barhoumi*
