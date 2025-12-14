@@ -122,5 +122,5 @@ Le prototype peut être amélioré sur plusieurs axes :
 
 ---
 
-*Document destiné à la démonstration.*
+*Document destiné à la démonstration fait par Nassim Barhoumi*
 
