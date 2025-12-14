@@ -111,12 +111,6 @@ Le prototype peut être amélioré sur plusieurs axes :
 - **Multi‑vues et fusion 3D**  
   Exploiter plusieurs photos d’un même objet pour fusionner les estimations et réduire l’incertitude liée à une vue unique.
 
-- **Estimation de profondeur dédiée**  
-  Intégrer un modèle de profondeur monoculaire (ex. MiDaS) pour améliorer l’estimation de la distance caméra–objet, en complément des hypothèses géométriques actuelles.
-
-- **Personnalisation par contexte**  
-  Adapter automatiquement certaines hypothèses (hauteur caméra, contraintes de dimensions) selon le type de logement ou le pays.
-
 - **Apprentissage par retour terrain**  
   Corriger progressivement les priors et recommandations de camions à partir des volumes réellement observés après déménagement.
 
